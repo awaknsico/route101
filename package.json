@@ -1,0 +1,27 @@
+{
+  "name": "route101",
+  "version": "1.0.0",
+  "description": "Just another playground for random API routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaknsico/route101.git"
+  },
+  "keywords": [
+    "API",
+    "Routes",
+    "Endpoints"
+  ],
+  "author": "Awak Nsico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaknsico/route101/issues"
+  },
+  "homepage": "https://github.com/awaknsico/route101#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
